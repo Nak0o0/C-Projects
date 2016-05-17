@@ -24,11 +24,7 @@ int count( int S[], int m, int n )
 
 int main()
 {
-    cout << "--------------------------------------------------------------------------------";
-	cout << "\t\t\t Coins by ELENI KAISARI " << endl;
-	cout << "\t\t\t Tmima Automatismou 2015-2016 " << endl;
-	cout << "\t\t\t Programatismos I Theory " << endl;
-	cout << "--------------------------------------------------------------------------------" << endl;
+  
 	cout << "Lamvanontas ypopsh 1 apeiro arithmo kermatwn twn akolouthwn onomastikwn aksiwn:"<< endl;
 	cout << "(1, 2, 5, 10, 20, 50, 100, 200) kai timwn, gia na kanei thn allagh apo = 300." << endl;
 	cout << "Me posous diaforetikous syndiasmoys boroume na kanoume thn allagh? \n\n" << endl;
